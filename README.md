@@ -32,5 +32,5 @@ pip install mysql-connector-python
 
 ---
 
-![App Screenshot](<img width="898" height="518" alt="py with sql" src="https://github.com/user-attachments/assets/53d010c1-2b8d-4b5a-8234-1e09f358c49f" />
-)
+<img width="898" height="518" alt="py with sql" src="https://github.com/user-attachments/assets/53d010c1-2b8d-4b5a-8234-1e09f358c49f" />
+
